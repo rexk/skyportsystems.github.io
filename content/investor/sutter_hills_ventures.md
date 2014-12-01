@@ -4,7 +4,7 @@ description = "Sutter Hill Ventures has financed technology-based start-ups and 
 link = "http://shv.com"
 template = "simple"
 weight = 1
-src = "/images/investor/sutter-hill-venture.png"
+src = 'images/investor/sutter-hill-venture.png'
 +++
 
 ## Sutter Hills

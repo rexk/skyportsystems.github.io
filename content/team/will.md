@@ -1,7 +1,7 @@
 +++
 title = "Will Eatherton"
 description = "VP Engineering"
-src = "/images/management/will_eatherton.png"
+src = "images/management/will_eatherton.png"
 weight = 3
 +++
 

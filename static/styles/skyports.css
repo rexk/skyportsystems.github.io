@@ -14,9 +14,9 @@
 }
 
 .skyports-logo-mini {
-    background: url(/images/logo-small.png) center center no-repeat;
-    background-image : -webkit-linear-gradient(transparent,transparent), url(/images/logo-small.svg);
-    background-image : linear-gradient(transparent,transparent), url(/images/logo-small.svg);
+    background: url(../images/logo-small.png) center center no-repeat;
+    background-image : -webkit-linear-gradient(transparent,transparent), url(../images/logo-small.svg);
+    background-image : linear-gradient(transparent,transparent), url(../images/logo-small.svg);
     position: relative;
     display:block;
     float:left;
@@ -30,9 +30,9 @@
 /* splash */
 
 .splash-head {
-    background: url(/images/logo.png) center no-repeat;
-    background-image : -webkit-linear-gradient(transparent,transparent), url(/images/logo.svg);
-    background-image : linear-gradient(transparent,transparent), url(/images/logo.svg);
+    background: url(../images/logo.png) center no-repeat;
+    background-image : -webkit-linear-gradient(transparent,transparent), url(../images/logo.svg);
+    background-image : linear-gradient(transparent,transparent), url(../images/logo.svg);
     background-size: contain;
     height: 162px; /* PHI */
     border: none;
