@@ -1,0 +1,23 @@
+.investor_card {
+    width: 25em;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.investor-section .content-head {
+    margin:0;
+    margin-bottom: 1.5em;
+    color: white;
+}
+
+.investor-section img {
+    width: 350px;
+}
+
+.investor-section .investor_card div {
+    padding-top: 1em;
+}
+
+.investor-section .ribbon {
+    padding-bottom: 5em;
+}

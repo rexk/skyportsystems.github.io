@@ -1,0 +1,13 @@
+.joinus-section .ribbon {
+    background: white;
+    margin-bottom: 1em;
+}
+
+.joinus-section .content-head {
+    color: #2d3e50;
+}
+
+.joinus-section .ribbon .pure-u-1 {
+    margin-left: auto;
+    margin-right: auto;
+}

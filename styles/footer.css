@@ -1,0 +1,26 @@
+.footer i.icon {
+    cursor: pointer;
+    font-size: 32pt; /* ~44px */
+}
+
+.footer .icons-wrapper {
+    margin-top: 5px;
+}
+
+.footer i.icon {
+    margin: 10px;
+    display: inline-block;
+}
+
+.footer i.icon:hover {
+    color: #f47d20; /* skyport orange */
+}
+
+.icons-wrapper a, .icons-wrapper a:hover, .icons-wrapper a:visited {
+    text-decoration: none;
+    color: inherit;
+}
+
+.footer p {
+    text-align: center;
+}
