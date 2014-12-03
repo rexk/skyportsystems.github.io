@@ -21,3 +21,9 @@
 .investor-section .ribbon {
     padding-bottom: 5em;
 }
+
+@media (max-width: 768px) {
+    .investor-section img {
+        width: 300px;
+    }
+}

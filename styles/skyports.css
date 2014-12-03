@@ -26,6 +26,27 @@
     /* golden ratio */
     background-size: auto 61%;
 }
+/* triangle */
+.arrow-up {
+    width: 0; 
+    height: 0; 
+    border-left: 40px solid transparent;
+    border-right: 40px solid transparent;
+    border-bottom: 40px solid black;
+    top: -40px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.team-section .arrow-up, .contact-section .arrow-up {
+    top: 0;
+    border-bottom-color: #2d3e50;
+}
+
+.rethink-section .arrow-up, .joinus-section .arrow-up {
+    border-bottom-color: white;
+}
 
 /* splash */
 

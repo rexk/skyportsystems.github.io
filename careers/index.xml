@@ -3,7 +3,7 @@
   <channel>
       <title>Careers on Skyports Systems </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://rexk.github.io/careers/index.xml</link>
+    <link>http://skyportsystems.com/careers/index.xml</link>
     <language>en-us</language>
     
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>Join us</title>
-      <link>http://rexk.github.io/careers</link>
+      <link>http://skyportsystems.com/careers</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
       
-      <guid>http://rexk.github.io/careers</guid>
+      <guid>http://skyportsystems.com/careers</guid>
       <description>
 
 &lt;p&gt;&lt;link rel=&#39;stylesheet&#39; href=&#39;/styles/joinus.css&#39;/&gt;&lt;/p&gt;
