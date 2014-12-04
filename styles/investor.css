@@ -1,7 +1,19 @@
+.investor-section .ribbon, .investor-section{
+    background-color: #ccc;
+}
+
+.investor-section .arrow-up {
+    border-bottom-color: #ccc;
+}
+
 .investor_card {
     width: 25em;
     margin: 0 auto;
     text-align: center;
+}
+
+.investor_card p {
+    color: #333;
 }
 
 .investor-section .content-head {
@@ -24,6 +36,6 @@
 
 @media (max-width: 768px) {
     .investor-section img {
-        width: 300px;
+        width: 100%;
     }
 }

@@ -18,17 +18,12 @@
   </url>
   
   <url>
-    <loc>http://skyportsystems.com/careers</loc>
-    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://skyportsystems.com/team/michaeljbeesley</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://skyportsystems.com/team/will</loc>
+    <loc>http://skyportsystems.com/careers</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -38,7 +33,12 @@
   </url>
   
   <url>
-    <loc>http://skyportsystems.com/team/rod</loc>
+    <loc>http://skyportsystems.com/team/will</loc>
+    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://skyportsystems.com/team/rob</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
   </url>
   
