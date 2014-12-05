@@ -10,16 +10,6 @@
     <updated>Tue, 01 Jan 2008 00:00:00 UTC</updated>
     
     <item>
-      <title>The Team</title>
-      <link>http://skyportsystems.com/team/team</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
-      
-      <guid>http://skyportsystems.com/team/team</guid>
-      <description>&lt;p&gt;Our team is made up thinkers, doers, and builders. We have some of the world&amp;rsquo;s leading experts in virtualization, cryptography, systems engineering, and networking, and we routinely uncover entirely new technological territory as we advance our solutions. We intend to stay on the leading edge, write great code, build amazing engineered systems, delight customers, and enjoy the journey as much as the destination.  We hire great people based on expertise, skill, passion and cultural fit - if this is also appealing to you, we&amp;rsquo;d love to meet you.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Sutter Hills Ventures</title>
       <link>http://skyportsystems.com/investor/sutter_hills_ventures</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
@@ -28,6 +18,26 @@
       <description>
 
 &lt;h2 id=&#34;toc_0&#34;&gt;Sutter Hills&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Team</title>
+      <link>http://skyportsystems.com/team/team</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://skyportsystems.com/team/team</guid>
+      <description>&lt;p&gt;Our team is made up of thinkers, doers, and builders. We have some of the world&amp;rsquo;s leading experts in virtualization, cryptography, systems engineering, and networking, and we routinely uncover entirely new technological territory as we advance our solutions. We intend to stay on the leading edge, write great code, build amazing engineered systems, delight customers, and enjoy the journey as much as the destination.  We hire great people based on expertise, skill, passion and cultural fit - if this is also appealing to you, we&amp;rsquo;d love to meet you.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stefan Dyckerhoff</title>
+      <link>http://skyportsystems.com/team/stefan-dyckerhoff</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://skyportsystems.com/team/stefan-dyckerhoff</guid>
+      <description>&lt;p&gt;Stefan was GM of routing and switching at Juniper Networks, which he originally joined as employee #33 working in chip design. He worked with Mike, Rob, and Will closely at both Juniper Networks and Cisco Systems (where he ran Enterprise routing), and brought them into Sutter Hill Ventures as Entrepreneurs-in-residence where Skyport Systems got started. Stefan holds an BS EE &amp;amp; CS from Duke University and a MS EE from Stanford University.&lt;/p&gt;
 </description>
     </item>
     
@@ -46,26 +56,6 @@
 &lt;p&gt;We are an experienced, high-performance team passionate about building next-generation technology that makes a big industry impact.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#39;http://www.jobscore.com/jobs/skyportsystems&#39; class=&#39;pure-button&#39;&gt;Join Us&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Stefan Dyckerhoff</title>
-      <link>http://skyportsystems.com/team/stefan-dyckerhoff</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
-      
-      <guid>http://skyportsystems.com/team/stefan-dyckerhoff</guid>
-      <description>&lt;p&gt;Stefan was GM of routing and switching at Juniper Networks, which he originally joined as employee #33 working in chip design. He worked with Mike, Rob, and Will closely at both Juniper Networks and Cisco Systems (where he ran Enterprise routing), and brought them into Sutter Hill Ventures as Entrepreneurs-in-residence where Skyport Systems got started. Stefan holds an BS EE &amp;amp; CS from Duke University and a MS EE from Stanford University.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Michael Beesley</title>
-      <link>http://skyportsystems.com/team/michaeljbeesley</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
-      
-      <guid>http://skyportsystems.com/team/michaeljbeesley</guid>
-      <description>&lt;p&gt;Michael has led several routing and switching product lines at both Juniper Networks and Cisco Systems which grew to become billion-dollar annual revenue products. Michael joined Cisco Systems through their acquisition of BCN Networks, where he was the Founder and CEO, and he then joined Juniper Networks where he most recently was the CTO of the Infrastructure Products Group with Stefan. Michael holds degrees in both Mathematics and Computer Engineering from Trinity College in Dublin.&lt;/p&gt;
 </description>
     </item>
     
@@ -89,6 +79,16 @@
     &lt;/a&gt;
     &lt;noscript&gt;Sorry, you need Javascript on to email me.&lt;/noscript&gt;
 &lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Michael Beesley</title>
+      <link>http://skyportsystems.com/team/michaeljbeesley</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://skyportsystems.com/team/michaeljbeesley</guid>
+      <description>&lt;p&gt;Michael has led several routing and switching product lines at both Juniper Networks and Cisco Systems which grew to become billion-dollar annual revenue products. Michael joined Cisco Systems through their acquisition of BCN Networks, where he was the Founder and CEO, and he then joined Juniper Networks where he most recently was the CTO of the Infrastructure Products Group with Stefan. Michael holds degrees in both Mathematics and Computer Engineering from Trinity College in Dublin.&lt;/p&gt;
 </description>
     </item>
     
