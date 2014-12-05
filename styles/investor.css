@@ -10,6 +10,7 @@
     width: 25em;
     margin: 0 auto;
     text-align: center;
+    max-width: 100%;
 }
 
 .investor_card p {
@@ -32,12 +33,6 @@
 
 .investor-section .ribbon {
     padding-bottom: 5em;
-}
-
-@media (max-width: 400px) {
-    .investor_card {
-        width: 100%;
-    }
 }
 
 @media (max-width: 768px) {

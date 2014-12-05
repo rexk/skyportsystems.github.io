@@ -28,8 +28,8 @@
 }
 /* triangle */
 .arrow-up {
-    width: 0; 
-    height: 0; 
+    width: 0;
+    height: 0;
     border-left: 40px solid transparent;
     border-right: 40px solid transparent;
     border-bottom: 20px solid black;
@@ -62,7 +62,6 @@
 .splash-container {
     background: white;
     background-repeat: no-repeat;
-    background-position: center;
     background-size: cover;
 }
 
