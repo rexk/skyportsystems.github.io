@@ -22,12 +22,12 @@
     </item>
     
     <item>
-      <title>Stefan Dyckerhoff</title>
-      <link>http://skyportsystems.com/team/stefan-dyckerhoff</link>
+      <title>The Team</title>
+      <link>http://skyportsystems.com/team/team</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
       
-      <guid>http://skyportsystems.com/team/stefan-dyckerhoff</guid>
-      <description>&lt;p&gt;Stefan was GM of the Infrastructure Products Group, which generated roughly 80% of company-wide revenue at Juniper Networks, which he joined as employee #33. He worked with Mike, Rob, and Will closely at both Juniper Networks and Cisco Systems, and brought them into Sutter Hill Ventures where Skyport Systems got started. Stefan holds a Masters in Electrical Engineering from Stanford University.&lt;/p&gt;
+      <guid>http://skyportsystems.com/team/team</guid>
+      <description>&lt;p&gt;Our team is made u of thinkers, doers, and builders. We have some of the world&amp;rsquo;s leading experts in virtualization, cryptography, systems engineering, and networking, and we routinely uncover entirely new technological territory as we advance our solutions. We intend to stay on the leading edge, write great code, build amazing engineered systems, delight customers, and enjoy the journey as much as the destination.  We hire great people based on expertise, skill, passion and cultural fit - if this is also appealing to you, we&amp;rsquo;d love to meet you.&lt;/p&gt;
 </description>
     </item>
     
@@ -50,12 +50,12 @@
     </item>
     
     <item>
-      <title>Michael Beesley</title>
-      <link>http://skyportsystems.com/team/michaeljbeesley</link>
+      <title>Stefan Dyckerhoff</title>
+      <link>http://skyportsystems.com/team/stefan-dyckerhoff</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
       
-      <guid>http://skyportsystems.com/team/michaeljbeesley</guid>
-      <description>&lt;p&gt;Mike has led several routing and switching product lines at both Juniper Networks and Cisco Systems which grew to become billion-dollar annual revenue products.  Michael joined Cisco Systems through their acquisition of BCN Networks, where he was the Founder and CEO, and he then joined Juniper Networks where he most recently was the CTO of the Infrastructure Products Group with Stefan. Mike holds degrees in both Mathematics and Computer Engineering from Trinity College in Dublin.&lt;/p&gt;
+      <guid>http://skyportsystems.com/team/stefan-dyckerhoff</guid>
+      <description>&lt;p&gt;Stefan was GM of routing and switching at Juniper Networks, which he originally joined as employee #33 working in chip design. He worked with Mike, Rob, and Will closely at both Juniper Networks and Cisco Systems (where he ran Enterprise routing), and brought them into Sutter Hill Ventures as Entrepreneurs-in-residence where Skyport Systems got started. Stefan holds an BS EE &amp;amp; CS from Duke University and a MS EE from Stanford University.&lt;/p&gt;
 </description>
     </item>
     
@@ -83,12 +83,22 @@
     </item>
     
     <item>
+      <title>Michael Beesley</title>
+      <link>http://skyportsystems.com/team/michaeljbeesley</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://skyportsystems.com/team/michaeljbeesley</guid>
+      <description>&lt;p&gt;Michael has led several routing and switching product lines at both Juniper Networks and Cisco Systems which grew to become billion-dollar annual revenue products. Michael joined Cisco Systems through their acquisition of BCN Networks, where he was the Founder and CEO, and he then joined Juniper Networks where he most recently was the CTO of the Infrastructure Products Group with Stefan. Michael holds degrees in both Mathematics and Computer Engineering from Trinity College in Dublin.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Will Eatherton</title>
       <link>http://skyportsystems.com/team/will</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
       
       <guid>http://skyportsystems.com/team/will</guid>
-      <description>&lt;p&gt;Will has worked with Mike, Rob, and Stefan at both Juniper Networks and Cisco Systems, and was most recently a VP of engineering at Juniper Networks. He is a distinguished engineer at Cisco Systems, which brought him on through their acquisition of Growth Networks, where he was a member of the founding engineering team. Will holds a Masters Degree in Electrical Engineering.&lt;/p&gt;
+      <description>&lt;p&gt;Will was VP of Engineering at Juniper Networks, where he oversaw high end routing.  Before Juniper he was 10 years at Cisco Systems as a Distinguished Engineer resulting in 24 patents.  He then led delivery of IOS-XE Operating System with a team of over 600 engineers, as well as development of a new routing system with Stefan, Michael and Rob.  He joined Cisco through their acquisition of Growth Networks, where he was a member of the founding engineering team.  He holds an EE degree from the University of Missouri-Rolla, and an MSEE from Washington University in St. Louis.&lt;/p&gt;
 </description>
     </item>
     
@@ -108,7 +118,7 @@
       <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
       
       <guid>http://skyportsystems.com/team/doug</guid>
-      <description>&lt;p&gt;Douglas Gourlay, Corporate Vice President is responsible for all customer facing business functions at Skyport.  Gourlay is an industry veteran with a track-record of success spanning twelve years at Cisco Systems as the Vice President of Product Management and Marketing for the Data Center and over five years at Arista Networks leading multiple business functions including sales, marketing, and systems engineering.  Gourlay holds over forty patents on networking and systems technologies and served as a US Army Infantry Officer.&lt;/p&gt;
+      <description>&lt;p&gt;Douglas Gourlay is responsible for all customer facing business functions at Skyport. Gourlay is an industry veteran with a track-record of success spanning twelve years at Cisco Systems as the Vice President of Product Management and Marketing for the Data Center and over five years at Arista Networks leading multiple business functions including sales, marketing, and systems engineering. Gourlay holds over forty patents on networking and systems technologies and served as a US Army Infantry Officer.&lt;/p&gt;
 </description>
     </item>
     
