@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <!-- <base href="{{ .Site.BaseUrl }}"> -->
+        <!-- <base href="{{ .Site.BaseURL }}"> -->
         <title>{{ .Title }}</title>
         <link rel="canonical" href="{{ .Permalink }}">
         {{ if .RSSlink }}
@@ -23,6 +23,7 @@
         {{ partial "splash.html" . }}
 
         <div class="content-wrapper">
+            {{ partial "LeadFormSubmit.html" }}
             {{ partial "slogan.html" . }}
             {{ partial "team.html" . }}
             {{ partial "investor.html" . }}

@@ -79,6 +79,14 @@
     top: 88%;
 }
 
+section.lead-section {
+  background-color: orange;
+}
+
+.lead-section .arrow-up {
+  border-bottom-color: orange;
+}
+
 section.rethink-section h2 {
     color: #f47d20;
     font-size: 3em;
@@ -134,4 +142,10 @@ section h1.content-head {
 
 .contact-section a.mail-wrapper:hover {
     color: #f47d20; /* skyport orange */
+}
+
+.button-rounded {
+  font-size: 2em;
+  width: 10em;
+  height: 4em;
 }
