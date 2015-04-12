@@ -5,13 +5,13 @@
         <div class='pure-u-1'>
            <h1 class='content-head is-center'>Team</h1>
         </div>
-        <div class='team-container'>
+        <div class='team-container pure-u-1 pure-u-sm-22-24 pure-u-md-20-24 pure-u-lg-16-24 pure-u-xl-14-24'>
         {{ range .Data.Pages.ByWeight }}
             {{ if eq .Section "team" }}
                 {{ if eq .Section "team" }}
-                <div class='pure-u-1 pure-u-md-1-1 team-inner-container'>
+                <div class='team-inner-container pure-g'>
                 <!-- Render each team member here using pure css -->
-                        <div class='pure-u-sm-1-1 pure-u-md-1-3'>
+                        <div class='pure-u-1 pure-u-sm-1 pure-u-md-8-24'>
                             <div class="team-card team-head-pic {{ .Params.css }}">
                                 <div class='pure-u-1'>
                                     <img class='management-images' src='{{ .Params.src }}'/>
@@ -24,8 +24,9 @@
                                 </div>
                             </div>
                         </div>
-                        <div class='pure-u-sm-1-1 pure-u-md-2-3 team-info'>
-                            <div class='team-card team-content {{ .Params.css }}'>
+                        <!-- <div class='pure-u-sm-2-24'></div> -->
+                        <div class='pure-u-sm-14-24 pure-u-md-16-24 team-info'>
+                            <div class='team-card pure-u-1 team-content {{ .Params.css }}'>
                                 <p>
                                     {{ .Content }}
                                 </p>

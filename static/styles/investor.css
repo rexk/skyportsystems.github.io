@@ -1,9 +1,9 @@
 .investor-section .ribbon, .investor-section{
-    background-color: #ccc;
+    background-color: #f0f0f0;
 }
 
 .investor-section .arrow-up {
-    border-bottom-color: #ccc;
+    border-bottom-color: #f0f0f0;
 }
 
 .investor_card {
@@ -14,13 +14,14 @@
 }
 
 .investor_card p {
-    color: #333;
+    color: #2d3e50;
 }
 
 .investor-section .content-head {
     margin:0;
     margin-bottom: 1.5em;
-    color: white;
+    color: #2d3e50;
+    margin-top: 0.5em;
 }
 
 .investor-section img {

@@ -1,4 +1,15 @@
 /* skyports css overrides the css set in marketing.css, marketing.css is a template css provided by pure css - http://purecss.io/layouts/marketing/ */
+.left {
+    text-align: left;
+}
+
+.right {
+    text-align: right;
+}
+
+.center {
+    text-align: center;
+}
 /* header */
 
 .home-menu.pure-menu-open {
@@ -79,19 +90,106 @@
     top: 88%;
 }
 
+/* lead-section */
+
 section.lead-section {
-  background-color: orange;
+  background-color: #CD5555;
+  text-align: center;
 }
 
 .lead-section .arrow-up {
-  border-bottom-color: orange;
+  border-bottom-color: #CD5555;
 }
+
+.lead-container {
+    margin-left: auto;
+    margin-right: auto;
+    top: -13px;
+    position: relative;
+}
+
+.lead-message {
+    color: white;
+    font-size: 1.7em;
+    top: 0.2em;
+    position: relative;
+}
+
+.lead-message span {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.lead-message span:hover {
+    color: #2d3e50;
+}
+
+.lead-message div:first-child {
+    text-align: right;
+}
+.lead-message div:last-child {
+    text-align: left;
+}
+
+.lead-button-container {
+    font-family: sans-serif;
+    text-transform: uppercase;
+    font-size: 2em;
+}
+
+.lead-form .pure-g {
+    margin-top: 0.8em;
+}
+
+.lead-form {
+    padding-bottom: 0;
+    padding-top: 0;
+    text-align: center;
+    max-width: 100%;
+    margin: 0px auto;
+    width: 100%;
+    top: -1.2em;
+    position: relative;
+    display: none;
+    overflow: hidden;
+    transition: height 5s ;
+    -moz-transition: height 5s ; /* Firefox 4 */
+    -webkit-transition: height 5s ; /* Safari and Chrome */
+    -o-transition: height 5s ; /* Opera */
+}
+
+.lead-form fieldset {
+    padding-bottom: 0;
+}
+
+.lead-form label {
+    color: white;
+}
+
+.lead-form .lead-control {
+    padding-top: 0.1em;
+}
+
+.lead-button-container {
+    text-align: center;
+}
+
+.button-wrapper-to-collapse {
+    margin-top: 0.5em;
+    color: white;
+}
+
+.button-collapse {
+    cursor: pointer;
+}
+
+/* slogan section */
 
 section.rethink-section h2 {
     color: #f47d20;
     font-size: 3em;
     margin: 1.5em 0 0em;
-    margin-top: 3em;
+    margin-top: 1.5em;
 }
 
 section.rethink-section p {
@@ -100,16 +198,26 @@ section.rethink-section p {
     margin-bottom: 1em;
 }
 
+section.rethink-section .pure-g {
+    padding-top: 0;
+}
+
 section.rethink-section p:last-child {
-    margin-bottom: 7.5em;
+    margin-bottom: 3em;
 }
 
 section.rethink-section .pure-u-1 {
     margin-top:3em;
     margin-left: auto;
     margin-right: auto;
-    padding: 0px 1em;
+    padding: 0 1em;
 }
+
+.rethink-message {
+    padding: 0 !important;
+}
+
+/* End of slogan section */
 
 div.l-box {
     padding: 2em;
@@ -134,6 +242,7 @@ section h1.content-head {
     margin-top: 1em;
     margin-bottom: 1.5em;
 }
+
 /* contact section css */
 .contact-section a.mail-wrapper, .contact-section a.mail-wrapper:hover, .contact-section a.mail-wrapper:visited {
     text-decoration: none;
@@ -144,8 +253,13 @@ section h1.content-head {
     color: #f47d20; /* skyport orange */
 }
 
-.button-rounded {
-  font-size: 2em;
-  width: 10em;
-  height: 4em;
+.contact-section .ribbon {
+    padding-bottom: 4.5em;
+}
+
+.footer.l-box {
+    padding: 3.5em;
+}
+.l-box-lrg {
+    border-bottom-color: transparent;
 }

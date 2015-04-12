@@ -9,18 +9,18 @@ div.team-card {
     margin-right: auto;
 }
 
-.team-section h1 {
+.team-section h1.content-head {
     color: white;
     text-align: center;
     font-size: 3em;
-    margin-top: 1.5em;
-    margin-bottom: 1.5em;
+    margin-bottom: 1em;
 }
 
 .team-container {
     max-width: 1000px;
     margin-left: auto;
     margin-right: auto;
+    padding-bottom: 1.5em;
 }
 
 .team-info-wrapper div:first-child {
@@ -32,8 +32,8 @@ div.team-card {
 }
 
 .team-info {
-    padding-left: 20px;
-    width: 54%;
+    /*padding-left: 20px;*/
+    /*width: 54%;*/
 }
 
 .team-info-wrapper {
@@ -48,7 +48,7 @@ div.team-card {
 }
 
 .team-head-pic.theTeam-padding {
-    padding-top: 2em;
+    padding-top: 1.2em;
 }
 
 .team-head-pic.stefan-padding {
@@ -56,7 +56,7 @@ div.team-card {
 }
 
 .team-head-pic.mike-padding {
-    padding-top: 1em;
+    padding-top: 0.3em;
 }
 
 .team-head-pic.will-padding {
@@ -67,41 +67,75 @@ div.team-card {
     padding-top: 0.2em;
 }
 
-.team-content.rob-padding {
+.team-head-pic.rob-padding {
     padding-top: 0.3em;
 }
 
+.team-content.rob-padding {
+    padding-top: 1em;
+}
+
+@media (MAX-WIDTH:1413PX) {
+    .team-content.rob-padding {
+        padding-top: 0;
+    }
+}
+
+@media (MIN-WIDTH: 1280PX) AND (MAX-WIDTH: 1413PX) {
+   .team-head-pic.doug-padding {
+       padding-top: 1.2em;
+   } 
+}
+
+@media (MIN-WIDTH: 978PX) AND (MAX-WIDTH: 1110PX) {
+    .team-head-pic.theTeam-padding {
+        padding-top: 2.3em;
+    }
+
+    .team-head-pic.stefan-padding {
+        padding-top: 0.8em;
+    }
+
+    .team-head-pic.mike-padding {
+        padding-top: 1.9em;
+    }
+
+    .team-head-pic.will-padding {
+        padding-top: 2.9em;
+    }
+
+    .team-head-pic.doug-padding {
+        padding-top: 1.8em;
+    }
+}
+
 @media (MAX-WIDTH: 977PX) AND (MIN-WIDTH: 768PX) {
-    .team-head-pic {
-        padding-right: 20px;
+    .team-head-pic.theTeam-padding {
+        padding-top: 1.8em;
+    }
+
+    .team-head-pic.stefan-padding {
+        padding-top: 1em;
+    }
+
+    .team-head-pic.mike-padding {
+        padding-top: 0.9em;
+    }
+
+    .team-head-pic.will-padding {
+        padding-top: 2.5em;
+    }
+
+    .team-head-pic.doug-padding {
+        padding-top: 1em;
     }
 
     .team-content.rob-padding {
         padding-top: 0;
     }
-
-    .team-head-pic.theTeam-padding {
-        padding-top: 4em;
-    }
-
-    .team-head-pic.stefan-padding {
-        padding-top: 2.2em;
-    }
-
-    .team-head-pic.will-padding {
-        padding-top: 4.3em;
-    }
-
-    .team-head-pic.doug-padding {
-        padding-top: 3.2em;
-    }
-
-    .team-head-pic.rob-padding {
-        padding-top: 1.8em;
-    }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 767px) {
     .team-content.rob-padding {
         padding-top: 0;
     }

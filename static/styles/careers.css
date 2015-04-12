@@ -1,0 +1,36 @@
+.careers-section .ribbon {
+    background: white;
+    margin: 0 auto 1em; 
+    margin-bottom: 1.5em;
+}
+
+.careers-section .content-head {
+    color: #2d3e50;
+}
+
+.careers-section .ribbon .pure-u-1 {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.careers-section h2 {
+    color: #f47d20;
+}
+
+.careers-section .arrow-up {
+    border-bottom-color: white;
+}
+
+.careers-section .button-control {
+    text-align: center;
+}
+
+.careers-section h1.content-head {
+    margin-top: 0.5em;
+    margin-bottom: 1em;
+    color: #f47d20;
+}
+
+.careers-section .button-control {
+    padding-top: 2em;
+}
